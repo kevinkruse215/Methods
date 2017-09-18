@@ -1,0 +1,9 @@
+start int choice 
+
+print menu of shapes 
+
+start scanner
+
+make switch statement to decide shape 
+
+calculate and display result 
